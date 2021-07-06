@@ -1,11 +1,7 @@
-### 🚀 Sup!
-
-- 🐍 Learning python
-- 💻 Learning js
-- ☕ Java developer
-- 🤖 NodeJS developer (discord bots)
-- 📫 Contact me in discord! ``Sudano#7479``
-
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=sudanoj&count_private=true&theme=nightowl&show_icons=true)
-
-![MostUsedLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudanoj&theme=nightowl&layout=compact&langs_count=8)
+<div align="center">
+<img src="https://i.imgur.com/gqRTJtl.png" width="100" height="100"><h1>Olá, seja bem-vind@!</h1>
+  
+<a href="https://discord.com/users/272774903357505536">
+  <img src="https://img.icons8.com/color/452/discord-logo.png" width="30" height="30">
+</a>
+</div>
