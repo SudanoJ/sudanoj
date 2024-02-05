@@ -3,7 +3,9 @@
   <h1>
     Olá! Seja bem-vind@!
   </h1>
-  
+
+  Entre em contato comigo pelo Discord: ``@sudano``
+  <br>
 <a href="https://discord.com/users/272774903357505536">
   <img src="https://img.icons8.com/color/452/discord-logo.png" width="30" height="30">
 </a>
